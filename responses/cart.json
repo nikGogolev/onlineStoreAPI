@@ -1,0 +1,38 @@
+{
+  "amount": 46600,
+  "countGoods": 2,
+  "contents": [
+    {
+      "image_src": "img/catalog/catalog-image-1.png",
+      "product_id": 1,
+      "product_name": "Jacket 1",
+      "product_description": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+      "product_price": 48,
+      "quantity": 1
+    },
+    {
+      "image_src": "img/catalog/catalog-image-2.png",
+      "product_id": 2,
+      "product_name": "Jacket 2",
+      "product_description": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+      "product_price": 35,
+      "quantity": 1
+    },
+    {
+      "image_src": "img/catalog/catalog-image-3.png",
+      "product_id": 3,
+      "product_name": "Shorts 1",
+      "product_description": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+      "product_price": 65,
+      "quantity": 1
+    },
+    {
+      "image_src": "img/catalog/catalog-image-4.png",
+      "product_id": 4,
+      "product_name": "Pants 1",
+      "product_description": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+      "product_price": 14,
+      "quantity": 1
+    }
+  ]
+}
